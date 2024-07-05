@@ -1,0 +1,5 @@
+CREATE TABLE teste (
+chave INT NOT NULL PRIMARY KEY,
+nome VARCHAR(255) NOT NULL,
+numero INT NOT NULL
+);
